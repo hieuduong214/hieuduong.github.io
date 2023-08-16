@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+ul {
+  list-style-type: none;
+}
+li:hover {
+  color: red;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
